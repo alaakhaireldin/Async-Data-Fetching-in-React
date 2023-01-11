@@ -1,5 +1,9 @@
 Async Data Fetching in React: An Interruptible and Optimized Implementation with AbortController, Custom Hooks, and Error Handling
 
+
+![Async Data Fetching in React ](https://user-images.githubusercontent.com/97854234/211899487-abceaa6f-9d8e-45ce-944f-663b92642f15.png)
+
+
 I developed this project to showcase my expertise in working with asynchronous data fetching in a React application.
 
 It includes my implementation of an interrupt button to cancel ongoing fetch requests, the use of AbortController to cancel requests on component unmount, and the handling of errors while fetching data.
