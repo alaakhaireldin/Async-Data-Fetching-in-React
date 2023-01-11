@@ -1,3 +1,13 @@
+I developed this project to showcase my expertise in working with asynchronous data fetching in a React application.
+
+It includes my implementation of an interrupt button to cancel ongoing fetch requests, the use of AbortController to cancel requests on component unmount, and the handling of errors while fetching data.
+
+Additionally, I have demonstrated proficiency in creating a custom fetch hook, utilizing useState to display loading text, and using useCallback to prevent unnecessary re-renders.
+
+The useEffect hook is used to fetch data with a dependency array and control when the effect should run.
+
+The project also makes use of JSON server to simulate a back-end service and was initiated using Create React App.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
