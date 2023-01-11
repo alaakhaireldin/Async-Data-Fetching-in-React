@@ -11,7 +11,7 @@ function App() {
           setShowTrips(false);
         }}
       >
-        Inturrups Fetching data
+        Interrupts Fetching data
       </button>
       {showTrips && <TripList />}
     </div>
